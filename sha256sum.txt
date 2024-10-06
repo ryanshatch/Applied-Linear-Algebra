@@ -1,0 +1,4 @@
+232d43068723c984c32963872310353b3c368bd44301bc634ea96ede39b9063f  C:/Users/rshat/Documents/Programming/Github/Applied-Linear-Algebra/Copies.tar.gpg
+d3ac925c9a0a73a5ce30562f294134028544ea230caa5f510e56ce61124c9392  C:/Users/rshat/Documents/Programming/Github/Applied-Linear-Algebra/Project One.pdf.gpg
+3203413fb339868ce0d47e681a492a7b293ffbbe3c79762c592e0a410bbee17f  C:/Users/rshat/Documents/Programming/Github/Applied-Linear-Algebra/Project_One.mlx
+2cccf2fb5b15b91ce98b38ddad8bf21a09ef8e1035d1b30ebe9dbc291a99fe44  C:/Users/rshat/Documents/Programming/Github/Applied-Linear-Algebra/readme.md
